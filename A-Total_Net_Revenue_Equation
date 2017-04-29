@@ -1,0 +1,15 @@
+Total_Net_Revenue =
+
+(Dryer_Gross_Revenue - (Dryer_Charge_Fees + Dryer_Coupon_Adjustment +
+                                           Dryer_Discount_Adjustment + Dryer_Gift_Card_Adjustment +
+                                           Dryer_Refunds) *** Dryer_Net_Revenue***
+
++
+
+(Washer_Gross_Revenue - (Washer_Charge_Fees + Washer_Coupon_Adjustment +
+                                              Washer_Discount_Adjustment + Washer_Gift_Card_Adjustment +
+                                              Washer_Refunds) *** Washer_Net_Revenue***
+
+-
+
+(Plus_Deposits)
